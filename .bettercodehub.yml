@@ -12,6 +12,7 @@ exclude:
 - /src/Build/.*
 - /src/Doc/.*
 - /src/Ext/.*
+- /src/Mod/.*
 - /src/Base/.*
 - /src/CXX/.*
 - /src/MacAppBundle/*.
