@@ -1,3 +1,16 @@
 component_depth: 1
 languages:
 - cpp
+
+exclude:
+- /data/.*
+- /package/.*
+- /vagrant/.*
+- /subuser/freecad-dev/.*
+- /FreeCAD/src/3rdParty/.*
+- /FreeCAD/src/App/.*
+- /FreeCAD/src/Base/.*
+- /FreeCAD/src/CXX/.*
+- /FreeCAD/src/MacAppBundle/*.
+- /FreeCAD/src/Gui/*.
+= /FreeCAD/src/Tools/*.
