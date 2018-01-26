@@ -6,6 +6,8 @@ exclude:
 - /data/.*
 - /package/.*
 - /vagrant/.*
+- /src/.*
+- /FreeCAD/src/.*
 - /subuser/freecad-dev/.*
 - /src/3rdParty/.*
 - /src/App/.*
